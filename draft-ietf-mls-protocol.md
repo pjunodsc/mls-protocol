@@ -397,7 +397,7 @@ A              B              C          Directory            Channel
 ~~~~~
 
 Subsequent additions of group members proceed in the same way.  Any
-member of the group can download an ClientInitKey for a new client
+member of the group can download a ClientInitKey for a new client
 and broadcast an Add message that the current group can use to update
 their state and the new client can use to initialize its state.
 
